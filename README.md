@@ -2,7 +2,7 @@
 
 This repository accompanies [*Event-Based Programming*](http://www.apress.com/9781430243267) by Ted Faison (Apress, 2011).
 
-![Cover image](9781430243267.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
